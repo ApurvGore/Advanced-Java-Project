@@ -1,0 +1,25 @@
+.footer {
+  padding: 20px;
+  margin-top: 10px;
+  background-color: #87CEEB; 
+  display: flex;
+  /*
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  */
+}
+
+.footerstatement {
+  color: white;
+  font-weight: 400;
+}
+
+.SocialMediaLinks {
+  justify-self: center;
+}
+
+.border {
+  border-width: thick;
+  border-color: black;
+}

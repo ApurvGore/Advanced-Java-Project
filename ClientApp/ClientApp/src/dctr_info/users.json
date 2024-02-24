@@ -1,0 +1,11 @@
+{
+"username":"user1",
+"us_name":"Kalpana Sharma",
+ "email":"kalpana@gmail.com",
+ "password":"sharma@123",
+ "dob":"08-11-1994",
+ "gender":"male",
+ "city":"Pune",
+ "state":"Maharashtra",
+ "phone":9876543210
+}

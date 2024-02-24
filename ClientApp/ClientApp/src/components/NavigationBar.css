@@ -1,0 +1,19 @@
+body {
+    text-decoration: none;
+}
+
+.right {
+    display: flex;
+    position: absolute;
+    right: 5rem;
+}
+
+.textcolor {
+    color: white;
+    text-decoration: none;
+}
+
+.bar {
+    background-color: #87CEEB; 
+    font-weight: 500;
+}
